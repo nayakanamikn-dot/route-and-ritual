@@ -33,6 +33,11 @@ yarn-error.log*
 .vercel
 next-env.d.ts
 /dist/
+/dist-netlify/
 /.wrangler/
 /outputs/
 /work/
+tailwindcss-*.log
+
+# Local Netlify folder
+.netlify
